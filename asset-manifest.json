@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//krystianwojowicz.github.io/spa/static/css/main.60ff8446.chunk.css",
+    "main.js": "/https//krystianwojowicz.github.io/spa/static/js/main.023ef458.chunk.js",
+    "main.js.map": "/https//krystianwojowicz.github.io/spa/static/js/main.023ef458.chunk.js.map",
+    "runtime-main.js": "/https//krystianwojowicz.github.io/spa/static/js/runtime-main.14299393.js",
+    "runtime-main.js.map": "/https//krystianwojowicz.github.io/spa/static/js/runtime-main.14299393.js.map",
+    "static/js/2.98fef759.chunk.js": "/https//krystianwojowicz.github.io/spa/static/js/2.98fef759.chunk.js",
+    "static/js/2.98fef759.chunk.js.map": "/https//krystianwojowicz.github.io/spa/static/js/2.98fef759.chunk.js.map",
+    "index.html": "/https//krystianwojowicz.github.io/spa/index.html",
+    "precache-manifest.f0dcd9c11bc32c5687aeaeb89383119b.js": "/https//krystianwojowicz.github.io/spa/precache-manifest.f0dcd9c11bc32c5687aeaeb89383119b.js",
+    "service-worker.js": "/https//krystianwojowicz.github.io/spa/service-worker.js",
+    "static/css/main.60ff8446.chunk.css.map": "/https//krystianwojowicz.github.io/spa/static/css/main.60ff8446.chunk.css.map",
+    "static/js/2.98fef759.chunk.js.LICENSE.txt": "/https//krystianwojowicz.github.io/spa/static/js/2.98fef759.chunk.js.LICENSE.txt",
+    "static/media/img.jpg": "/https//krystianwojowicz.github.io/spa/static/media/img.1d6a5d15.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14299393.js",
+    "static/js/2.98fef759.chunk.js",
+    "static/css/main.60ff8446.chunk.css",
+    "static/js/main.023ef458.chunk.js"
+  ]
+}
